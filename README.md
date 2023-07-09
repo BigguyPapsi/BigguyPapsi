@@ -7,9 +7,6 @@
 <h3> Hello there 👋, i'm Thanouthong (Papsie) | Frontend Developer and UX-UI Design since 2018 </h3>
 
 ---
-  
-### 🌐 Social media:
-
 
 
 <h3 align="left">Languages and Tools:</h3>
