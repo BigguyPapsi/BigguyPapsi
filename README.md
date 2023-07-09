@@ -8,8 +8,6 @@
 
 ---
 
-<code>background-color</code>
-
 
 
 
