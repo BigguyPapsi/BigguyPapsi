@@ -4,7 +4,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-### Hello there 👋
+<h2>Hello there 👋</h2> 
 i'm thanouthong(papsie) | Frontend ⚒️ developer since 2018
 
 ### Social media:
