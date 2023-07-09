@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h2>Hello there 👋</h2> 
-i'm thanouthong(papsie) | Frontend Developer and UX-UI Design :: since 2018
+<p>i'm thanouthong(papsie) | Frontend Developer and UX-UI Design :: since 2018</p>
 
 ### 🌐 Social media:
 
