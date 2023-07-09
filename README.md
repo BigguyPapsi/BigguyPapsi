@@ -8,7 +8,8 @@
 
 ### 👩‍💻 About Me :
 
-Hello there 👋, i'm Thanouthong (Papsie) | Frontend Developer and UX-UI Design since 2018 
+<li>Hello there 👋, i'm Thanouthong (Papsie) | Frontend Developer and UX-UI Design since 2018</li>
+<li>🌱 Founder of KaiDaoDev 🥚 </li>
 
 ---
 
