@@ -15,7 +15,7 @@
   <a href="https://web.facebook.com/profile.php?id=100068467746235">
     <img 
       src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" 
-      alt="Facebook Badge"/>
+      alt="Facebook Badge" width="80px"/>
   </a> 
 </li>
 
