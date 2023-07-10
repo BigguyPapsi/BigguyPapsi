@@ -5,11 +5,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
 
+```python
+print('Hello there!')
+```
+
 
 ### 👩‍💻  About Me :
 
 
-<li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/> Hello there , i'm Thanouthong (Papsie) | Frontend Developer and UX-UI Design since 2018</li>
+<li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/> Hi , i'm Thanouthong (Papsie) | Frontend Developer and UX-UI Design since 2018</li>
 <li>🌱 Founder of KaiDaoDev 🥚 </li>
 <li>🌐 Social media : 
   <a href="https://web.facebook.com/profile.php?id=100068467746235">
