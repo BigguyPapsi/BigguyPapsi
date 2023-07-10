@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/898893230928711750/1127690133152485477/dbip6or-bf5e2f29-091f-49f6-92a4-cf017b3cbc01.gif" width="100%"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
 
 
 ### 👩‍💻  About Me :
