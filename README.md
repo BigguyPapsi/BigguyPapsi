@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<imgf src="https://media.discordapp.net/attachments/867439201275609099/1174648604057665627/giphy.gif"/>
+<img src="https://media.discordapp.net/attachments/867439201275609099/1174648604057665627/giphy.gif"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
