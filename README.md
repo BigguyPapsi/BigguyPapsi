@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif" width="100%"/>
+  <img src="https://www.codedex.io/images/codedex-bot-logo.gif" width="100%"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
