@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
+<imgf src="https://media.discordapp.net/attachments/867439201275609099/1174648604057665627/giphy.gif"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
